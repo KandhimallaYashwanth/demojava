@@ -4,3 +4,4 @@ classs Hi
     {
     System.out.print("hi");
   }
+}
