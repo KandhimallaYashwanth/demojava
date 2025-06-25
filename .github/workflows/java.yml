@@ -27,5 +27,5 @@ jobs:
       # Step 3: Compile and run Java program
       - name: Compile and Run Java Program
         run: |
-          javac Basic.java
-          java Basic
+          javac *.java
+          java *
